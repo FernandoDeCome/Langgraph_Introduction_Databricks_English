@@ -1,0 +1,13 @@
+id,customer,email,open_date,category,description,status,priority,product,resolution
+1001,Maria Silva,maria.silva@email.com,2025-03-01,Exchange/Return,TechBook Essentials notebook screen flickering after 15 days of use,In Progress,High,TechBook Essentials 14,Awaiting pickup for exchange
+1002,John Santos,joao.santos@email.com,2025-03-02,Product Inquiry,Wants to know if TechBook Dev Pro runs Docker and WSL2 without issues,Resolved,Medium,TechBook Dev Pro 15,Confirmed full compatibility with Docker and WSL2
+1003,Ana Oliveira,ana.oliveira@email.com,2025-03-03,Shipping,Order #8847 still has not arrived — deadline was 5 business days and 8 have passed,In Progress,High,,Carrier notified — new deadline 2 business days
+1004,Carlos Ferreira,carlos.f@email.com,2025-03-04,Payment,Wire transfer was not recognized but amount was debited from account,Resolved,Critical,,Payment located and manually confirmed
+1005,Beatriz Lima,bia.lima@email.com,2025-03-04,Warranty,TechMouse Gamer X3 stopped working after 3 months,In Progress,Medium,TechMouse Gamer X3,Product under technical analysis
+1006,Roberto Almeida,roberto.a@email.com,2025-03-05,Product Inquiry,What is the difference between TechView 27 QHD and TechView 32 4K for design use,Resolved,Low,TechView 27 QHD,Recommended TechView 32 4K for superior color coverage
+1007,Fernanda Costa,fernanda.c@email.com,2025-03-05,Exchange/Return,Want to return TechKeys Pro keyboard — did not like the switch type,Resolved,Low,TechKeys Pro,Return processed within the withdrawal period
+1008,Lucas Mendes,lucas.m@email.com,2025-03-06,Shipping,Order #9102 shows as delivered but I did not receive it,In Progress,High,,Investigation opened with carrier
+1009,Patricia Souza,patricia.s@email.com,2025-03-06,TechPoints,Want to know my TechPoints balance and how to redeem,Resolved,Low,,Balance reported: 1250 points — Silver tier
+1010,Diego Martins,diego.m@email.com,2025-03-07,Warranty,TechBook Creator notebook with yellow spots on screen — purchased 8 months ago,In Progress,High,TechBook Creator 16,Forwarded to manufacturer warranty
+1011,Camila Rodrigues,camila.r@email.com,2025-03-07,Product Inquiry,Need a notebook for my son who is starting a college engineering program,Resolved,Medium,,Recommended TechBook Dev Pro 15 for best value
+1012,Marcos Barbosa,marcos.b@email.com,2025-03-08,Payment,Credit card installment came with a different amount than agreed,In Progress,High,,Checking with card issuer

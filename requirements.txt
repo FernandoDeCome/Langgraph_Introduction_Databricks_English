@@ -1,0 +1,10 @@
+langchain>=0.3.0
+langchain-text-splitters
+langchain-databricks>=0.1.0
+langchain-community>=0.3.0
+langgraph>=0.2.0
+faiss-cpu>=1.7.4
+python-dotenv>=1.0.0
+ddgs
+pandas>=2.0.0
+ipykernel>=6.0.0
